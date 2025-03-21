@@ -19,6 +19,7 @@
 1. Ensure **Bitcoin Core (bitcoind)** is running in **regtest** mode.  
 2. Run the scripts sequentially to generate and validate transactions.  
 3. Use `decoderawtransaction` and `getrawtransaction` to analyze the transactions.  
+4. The `bitcoin.conf` file should be in your \%APPDATA%\Bitcoin.  
 ---
 
 **Team Hashverse - CS216 Blockchain Assignment**

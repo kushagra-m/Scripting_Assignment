@@ -2,7 +2,7 @@
 
 ## Team **Hashverse**  
 - **Kushagra Mishra** (230041017)  
-- **Anajanayae Chaurasia** (230021002)  
+- **Anjanayae Chaurasia** (230021002)  
 - **Shrish Shriyans** (230003072)  
 
 ##  Project Files  

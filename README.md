@@ -8,7 +8,8 @@
 ##  Project Files  
 ###  **Legacy Transactions (P2PKH)**  
 - **`btc2.py`** → Implements **A → B** transaction  
-- **`btc3.py`** → Implements **B → C** transaction  
+- **`btc3.py`** → Implements **B → C** transaction
+- **`btc3.py`** has to be run only after **`btc2.py`** as it loads the wallet that **btc2.py** has created
 
 ### **SegWit Transactions (P2SH-P2WPKH)**  
 - **`btc.py`** → Implements **A' → B' → C'** transactions  
